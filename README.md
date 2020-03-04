@@ -8,3 +8,10 @@ Diabetic retinopathy influences up to 80 percent of the individuals who have had
 
 In this project we will work in a model that predict the degree of diabetes that the retina have thanks to the clasification of retina magnetic resonance imaging. The objective of this model is to help doctors to detect the diabetes in an early stage so this way the  patient could be treated in a early stage and reduce the risk of developing blindness.
 
+# Methodology
+
+# Dataset
+
+# Model
+
+# Results
